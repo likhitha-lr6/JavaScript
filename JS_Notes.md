@@ -26,11 +26,11 @@ Dynamic size: Arrays can grow or shrink as elements are added or removed.
 Heterogeneous: Arrays can store elements of different data types (numbers, strings, objects and other arrays).
 8. A JavaScript Set is a collection of unique values. Each value can only occur once in a Set. The values can be of any type, primitive values or objects.
 9. JavaScript loops repeat executing a block of code a number of times. Loops are fundamental for tasks involving:
-**Iteration over values
-Iteration over data structures
+**Iteration over values;
+Iteration over data structures;
 Performing an action multiple times**
 10. A Regular Expression is a sequence of characters that forms a search pattern.Regex is a common shorthand for a regular expression.JavaScript RegExp is an Object for handling Regular Expressions.
 RegExp are be used for:
-**Text searching
-Text replacing
+**Text searching; 
+Text replacing; 
 Text validation**
